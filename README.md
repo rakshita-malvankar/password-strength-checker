@@ -17,4 +17,4 @@ Enter your Password:Hello123!
 Password strength strong
 Password accepted
 ## Project Output
-!Password Strength Checker output(IMG_20260929_182959[1].jpg)
+!Password Strength Checker output(Project-Output.jpg)
