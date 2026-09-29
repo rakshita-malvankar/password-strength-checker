@@ -11,9 +11,9 @@ Python
 ## How it Works
 The program checks five Password requirement and accept the password only when all requirements are satisfied.
 ## Example
-Enter your Password:abc
+Enter your Password:Demo
 Password is not strong
-Enter your Password:Hello123!
+Enter your Password:Demopass@1234
 Password strength strong
 Password accepted
 ## Project Output
